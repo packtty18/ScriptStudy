@@ -437,12 +437,9 @@ MonoBehaviour:
   m_GameObject: {fileID: 1419896563}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 45099d337729b3544ad528626276d9b5, type: 3}
+  m_Script: {fileID: 11500000, guid: d265cd44ef55cb64cadbc86c5cd4c614, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  MoneyList: 00000000
-  CurrentIncreasePerSecond: 1
-  TestNumber: 10000
 --- !u!1660057539 &9223372036854775807
 SceneRoots:
   m_ObjectHideFlags: 0
