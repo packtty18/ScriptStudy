@@ -11,7 +11,7 @@ public enum NotationType
     Alphabet
 }
 
-public class ScientificNotation : MonoBehaviour
+public class Notation : MonoBehaviour
 {
     public TextMeshProUGUI MoneyText;
     public TMP_InputField NumberInputField;
